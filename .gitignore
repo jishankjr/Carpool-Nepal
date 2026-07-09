@@ -1,0 +1,22 @@
+# Node
+backend/node_modules/
+backend/.env
+
+# Flutter
+frontend/rideshare_nepal/.dart_tool/
+frontend/rideshare_nepal/build/
+frontend/rideshare_nepal/.packages
+frontend/rideshare_nepal/.flutter-plugins
+frontend/rideshare_nepal/.flutter-plugins-dependencies
+
+# Android
+frontend/rideshare_nepal/android/local.properties
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
